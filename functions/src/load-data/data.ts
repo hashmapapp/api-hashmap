@@ -17,13 +17,6 @@ export const hashmaps = [
   //   title: 'GRAMADO - RS',
   // },
   // {
-  //   description:
-  //     'Acredito firmemente que que a vida das pessoas seria muito diferente se elas soubessem pelo menos o básico sobre economia e finanças. Estas duas áreas andam juntas e não é difícil entender como nossa cidade - estado - país - mundo funciona, e a partir disso tomar decisões mais embasadas nas nossas vidas. Segue então uma playlist de videos que eu acho bem legal pra entender tudo isso. ',
-  //   subtitle:
-  //     'Estes videos introduzem os princípios sobre o estudo da Economia',
-  //   title: 'Mito do Dom - Curso de Reaprendizagem Criativa',
-  // },
-  // {
   //   description: 'abcd',
   //   subtitle: 'novo teste',
   //   title: 'Sate sate sate...',
@@ -32,13 +25,6 @@ export const hashmaps = [
   //   description: 'nice',
   //   subtitle: 'mdsld',
   //   title: 'O Quarto de Jack',
-  // },
-  // {
-  //   description:
-  //     'Acredito firmemente que que a vida das pessoas seria muito diferente se elas soubessem pelo menos o básico sobre economia e finanças. Estas duas áreas andam juntas e não é difícil entender como nossa cidade - estado - país - mundo funciona, e a partir disso tomar decisões mais embasadas nas nossas vidas. Segue então uma playlist de videos que eu acho bem legal pra entender tudo isso. ',
-  //   subtitle:
-  //     'Estes videos introduzem os princípios sobre o estudo da Economia',
-  //   title: 'limite ',
   // },
   // {
   //   description: 'abcd',
